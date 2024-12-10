@@ -9,9 +9,6 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1vnU5YIzWAZx0t_mZAINzRLpqJEXqBQ7uzXq1444XpQc/edit?usp=sharing](https://docs.google.com/document/d/1vnU5YIzWAZx0t_mZAINzRLpqJEXqBQ7uzXq1444XpQc/edit?usp=sharing)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
