@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Veysican KETEN</h1>
-<h3 align="center">Learning is my biggest passion, plus math, statistics and programming are my favorites. Concrete earth sciences and abstract data science struck a great balance for me. I hope one day I can become a Geo Data Scientist</h3>
+<h3 align="center">Learning is my biggest passion, and math, statistics and programming are my favorites. I enjoy analyzing and dealing with everyday life problems such as energy efficiency, soccer analytics, traffic accidents.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyscnktn&label=Profile%20views&color=0e75b6&style=flat" alt="vyscnktn" /> </p>
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
-
-- 📝 I regularly write articles on [https://canketen.medium.com/](https://canketen.medium.com/)
+- 🌱 I’m currently learning **Data Engineering**
 
 - 📫 How to reach me **cankt321@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xB39_erQ2o2ZxarMl5kPVIUx5cufQLE_/view?usp=sharing](https://drive.google.com/file/d/1xB39_erQ2o2ZxarMl5kPVIUx5cufQLE_/view?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1vnU5YIzWAZx0t_mZAINzRLpqJEXqBQ7uzXq1444XpQc/edit?usp=sharing](https://docs.google.com/document/d/1vnU5YIzWAZx0t_mZAINzRLpqJEXqBQ7uzXq1444XpQc/edit?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -18,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/veysicanketen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/veysicanketen/" height="30" width="40" /></a>
-<a href="https://kaggle.com/nebulaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nebulaa" height="30" width="40" /></a>
+</a>
 <a href="https://medium.com/@canketen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@canketen" height="30" width="40" /></a>
 </p>
 
