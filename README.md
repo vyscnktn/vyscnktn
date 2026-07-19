@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyscnktn&label=Profile%20views&color=0e75b6&style=flat" alt="vyscnktn" /> </p>
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **AI Solutions Architect**
 
 - 📫 How to reach me **cankt321@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1vnU5YIzWAZx0t_mZAINzRLpqJEXqBQ7uzXq1444XpQc/edit?usp=sharing](https://docs.google.com/document/d/1vnU5YIzWAZx0t_mZAINzRLpqJEXqBQ7uzXq1444XpQc/edit?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
