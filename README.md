@@ -8,7 +8,7 @@
 - 🌱 Preparing for the **AWS Cloud Practitioner** certification
 - 🗣️ Trilingual: English, German, Turkish
 - 🌐 Portfolio: [vyscnktn.com](https://main.d1c6y6u9y0hzug.amplifyapp.com/en/) *(temporary Amplify link — custom domain coming soon)*
-- 📫 Reach me at **cankt321@gmail.com**
+- 📫 Reach me at **veysicanketen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
