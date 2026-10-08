@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyscnktn&label=Profile%20views&color=0e75b6&style=flat" alt="vyscnktn" /> </p>
 
 - 🎓 Studying Computer Science at Hochschule Darmstadt
-- 🔭 Currently building **ai-coach** — a serverless AWS sports analytics API (Lambda, API Gateway, Terraform, Docker)
+- 🔭 Currently building end-to-end cold e-mail automation for Food Manufacturer (find potential customer on google maps, get information about customers, write tailored e-mail)
 - 🌱 Preparing for the **AWS Cloud Practitioner** certification
 - 🗣️ Trilingual: English, German, Turkish
 - 🌐 Portfolio: [vyscnktn.de](https://vyscnktn.de/)
